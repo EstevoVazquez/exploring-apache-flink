@@ -1,0 +1,2 @@
+ ./bin/flink run /home/estevo/tfmflink/joins/target/joins-1.0-SNAPSHOT.jar --input1 /home/estevo/tfmflink/joins_download/person  --input2 /home/estevo/tfmflink/joins_download/location --output /home/estevo/tfmflink/
+

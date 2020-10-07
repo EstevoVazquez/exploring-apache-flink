@@ -1,0 +1,1 @@
+./bin/flink run /home/estevo/tfmflink/splitoperators/target/splitoperators-1.0-SNAPSHOT.jar --input /home/estevo/tfmflink/splitoperators/oddeven  --output /home/estevo/tfmflink/splitoperators

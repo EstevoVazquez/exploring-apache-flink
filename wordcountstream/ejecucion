@@ -1,0 +1,4 @@
+ nc -l 9999
+
+./bin/flink run /home/estevo/tfmflink/wordcountstream/target/wordcountstream-1.0-SNAPSHOT.jar
+
